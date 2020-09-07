@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\bin\Debug\netcoreapp3.1\homework8(5).exe
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\bin\Debug\netcoreapp3.1\homework8(5).deps.json
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\bin\Debug\netcoreapp3.1\homework8(5).runtimeconfig.json
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\bin\Debug\netcoreapp3.1\homework8(5).runtimeconfig.dev.json
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\bin\Debug\netcoreapp3.1\homework8(5).dll
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\bin\Debug\netcoreapp3.1\homework8(5).pdb
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\obj\Debug\netcoreapp3.1\homework8(5).csprojAssemblyReference.cache
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\obj\Debug\netcoreapp3.1\homework8(5).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\obj\Debug\netcoreapp3.1\homework8(5).AssemblyInfo.cs
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\obj\Debug\netcoreapp3.1\homework8(5).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\obj\Debug\netcoreapp3.1\homework8(5).dll
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\obj\Debug\netcoreapp3.1\homework8(5).pdb
+C:\Users\User\Desktop\homework8\homework8(5)\homework8(5)\obj\Debug\netcoreapp3.1\homework8(5).genruntimeconfig.cache
